@@ -1,0 +1,6 @@
+Kreas
+tensorflow
+Flask
+numpy
+Nltk
+Python -m nltk.download all
